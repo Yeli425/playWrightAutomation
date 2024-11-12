@@ -1,0 +1,6 @@
+{
+  name: 'lebron',
+  job: 'basketball player',
+  id: '983',
+  createdAt: '2024-09-03T18:42:48.360Z'
+}

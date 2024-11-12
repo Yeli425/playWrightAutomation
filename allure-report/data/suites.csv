@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7245","Test1","firefox","Mon Sep 02 14:08:16 EDT 2024","failed","Mon Sep 02 14:08:23 EDT 2024","","Reporters.spec.js","",""
+"","7325","Test1","chromium","Mon Sep 02 14:08:16 EDT 2024","failed","Mon Sep 02 14:08:23 EDT 2024","","Reporters.spec.js","",""
+"","1001","Test2","webkit","Mon Sep 02 14:08:16 EDT 2024","passed","Mon Sep 02 14:08:17 EDT 2024","","Reporters.spec.js","",""
+"","876","Test2","chromium","Mon Sep 02 14:08:16 EDT 2024","passed","Mon Sep 02 14:08:17 EDT 2024","","Reporters.spec.js","",""
+"","9914","Test1","webkit","Mon Sep 02 14:08:16 EDT 2024","failed","Mon Sep 02 14:08:26 EDT 2024","","Reporters.spec.js","",""
+"","980","Test2","firefox","Mon Sep 02 14:08:16 EDT 2024","passed","Mon Sep 02 14:08:17 EDT 2024","","Reporters.spec.js","",""
